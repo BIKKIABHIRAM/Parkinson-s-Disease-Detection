@@ -1,4 +1,4 @@
-# RA2111026020083
+# Parkinson's Disease Detection
 
 Average.py
 
